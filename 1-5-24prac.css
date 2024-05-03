@@ -1,0 +1,19 @@
+div{
+    display: inline-block;
+  height: 300px;
+  width: 460px;
+
+}
+h1{
+    text-align: center;
+}
+h3{
+    font-size: medium;
+    height: 30px;
+    width: 40px;
+}
+p{
+    font-size: medium;
+    height: 200px;
+    width: 300px;
+}
